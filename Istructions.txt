@@ -1,0 +1,6 @@
+Obstacle spawning. Check:)
+Sound effects.
+Life.
+Restart button.
+score.
+Health Bar.
